@@ -1,0 +1,15 @@
+.nav {
+  background-color: rgb(10, 94, 98);
+  height: 30px;
+}
+.letterNav {
+  color: rgb(71, 173, 178);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+.v-line {
+  border-left: 4px solid rgb(247, 238, 182);
+  height: 40px;
+  border-top-left-radius: 3px;
+}
