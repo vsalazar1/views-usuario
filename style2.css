@@ -1,0 +1,131 @@
+#perfil{
+
+    background-color: lightpink;
+    padding: 0px;
+    background-image: url("IMG_1491.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+
+}
+
+
+#avance {
+    background-color: rgb(212,205,246);
+    margin: 0%;
+    padding-top: 0%;
+}
+
+#insignias{
+    padding-bottom: 10px;
+    color: rgb(101,45,144);
+    font-family: sans-serif;
+    font-weight: lighter;
+    padding-left: 130px;
+    font-size: 35px;
+}
+
+#linea1{
+    background-color: rgb(9,98,102);
+    padding: 8px;
+    margin:0;
+    border-bottom: 0ch;
+
+}
+
+.box1{
+    border-color: rgb(9,98,102);
+    border-left: 110px solid;
+    border-right: 960px solid;
+    border-top: 0;
+    border-bottom: 0cm;
+    padding-top: 0;
+    background-color: rgb(9,98,102) ;
+    color: rgb(212,205,246);
+    font-family: sans-serif;
+    font-weight: lighter;
+    box-sizing: border-box;
+    padding-right: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 30px;
+
+}
+
+#morado{
+    background-color:  rgb(212,205,246);
+
+}
+
+
+.box {
+    width: 600px;
+    height: 600px;
+    background-image: url('existing-image-url.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding-left: 300px;
+  }
+
+  .new-image {
+    background-image: url('whitebubble.PNG');
+  }
+
+  .box2 {
+    width: 400px;
+    height: 400px;
+    background-image: url('existing-image-url.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding-left: 700px;
+  }
+
+  .new-image2 {
+    background-image: url('purplebubble.PNG');
+  }
+
+  #linea2 {
+    background-color: rgb(9,98,102);
+    padding: 4px;
+    margin:0;
+    border-bottom: 0ch;
+
+}
+
+.box3{
+    border-color: rgb(212,205,246);
+    border-left: 90px solid;
+    border-right: 90px solid;
+    border-top: 50px;
+    border-bottom: 50px;
+    padding-top: 0;
+    background-color: rgb(212,205,246) ;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    box-sizing: border-box;
+    padding-right: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 30px;
+    padding-top: 10px;
+
+}
+
+.box4 {
+    width: 320px;
+    height: 320px;
+    background-image: url('existing-image-url.jpg');
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: contain;
+    padding-left: 700px;
+  }
+
+  .new-image3 {
+    background-image: url('insignia.PNG');
+    
+  }
