@@ -1,0 +1,12 @@
+.bod {
+  background-color: rgb(212, 205, 246);
+}
+.rec {
+  width: 250px;
+  height: 700px;
+  background: white;
+}
+.contenedor1 {
+  display: flex;
+  justify-content: center;
+}
