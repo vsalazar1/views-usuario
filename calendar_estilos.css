@@ -1,0 +1,87 @@
+/*permite que toda la  vista contengas los caracteristicas especificada*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.box{
+    width: auto ;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /*border: 5px solid darkblue;*/
+}
+
+.cuadro{
+    width: 60%;
+    height: 80%;
+    position: relative;
+    /*background-color: blueviolet;*/
+    left: 20%;
+    top: 10%;
+}
+
+.cuadro2{
+    width: 80%;
+    height: 80%;
+    position: relative;
+    /*background-color: blueviolet;*/
+    left: 10%;
+    top: 10%;
+    padding: 5% 10%;
+}
+
+
+#imagen1 {
+    background-image: url('img/fondo1.JPG');    background-size: cover;
+    background-size: 100% 100%;
+    
+}
+
+#imgCalen{
+    background-image: url('img/Marzo.PNG');
+    background-size: 100% 100%;
+}
+
+
+#imagen2 {
+    background-color: rgb(212,205,246) ;
+}
+
+#imgAmarilla{
+    background-image: url('img/FondoAmarillo.PNG');
+    background-size: 100% 100%;
+    display: flex;
+}
+
+#imgAgenda{
+    background-image: url('img/FondoAmarillo.PNG');
+    background-size: 50% 100%;
+
+
+}
+.cuadrado{
+    width: 25%;
+    height: 100%;
+    /*background-color: brown;*/
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.cuadradoAge{
+    width: 40%;
+    height: 100%;
+    background-image: url('img/Agenda.PNG');
+    background-size: 100% 100%;
+}
+
+.tituloAgenda{
+    border: 5px solid rgb(255, 255, 255);
+    
+    text-align:center;
+    color: #0fa459; 
+    font-weight: bolder;
+    font-size: x-large;
+}
